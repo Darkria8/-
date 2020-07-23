@@ -65,5 +65,5 @@ o	主要介绍：目标定位、目标检测、Bounding Box预测、交并比、
 o	主要介绍：人脸识别、one-shot学习、Siamese网络、Triplet损失、风格迁移、内容损失、风格损失、1D-3D卷积等；
 
 
-（要求：每周将学习的内容和代码push到github连接上。）
+（要求：每周将学习的内容和代码pull到github连接上。）
 
